@@ -55,7 +55,7 @@ Tenho experiência no desenvolvimento e manutenção de aplicações web, integr
 ## 📫 Contato
 
 <!--Linkedin-->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soares-de-paula-filho-89a8321b4/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soares-de-paula-filho/)
 
 - 🌐 Portfólio: https://rafaelsoarespf.github.io/portfolio/
 - 📧 E-mail: rafaelsoares.p.f.work@gmail.com
