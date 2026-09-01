@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Efeito de digitação -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Rafael+Soares+de+Paula+Filho+%F0%9F%91%8B;Desenvolvedor+de+Software;Full-Stack+%7C+Seguran%C3%A7a+Cibern%C3%A9tica;Sempre+aprendendo+algo+novo)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Eu+sou+Rafael+Soares+de+Paula+Filho+%F0%9F%91%8B;Desenvolvedor+de+Software;Full-Stack+|+Seguran%C3%A7a+Cibern%C3%A9tica;Sempre+aprendendo+algo+novo)
 
 ![Status](https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-1B3A5C?style=for-the-badge)
 
