@@ -67,5 +67,6 @@ Ferramentas<br/>
 [![Email](https://img.shields.io/badge/Email-181b22?style=for-the-badge&logo=gmail&logoColor=5d6f7e)](mailto:rafaelsoares.p.f.work@gmail.com)
 
 </div>
-
-<img src="assets/divider.svg" width="100%"/>
+<br>
+<br>
+<img src="assets/footer.svg" alt="Footer" width="100%"/>
