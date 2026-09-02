@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Banner-->
+<img src="assets/banner.gif" alt="Banner" width="100%"/>
+
 <!-- Efeito de digitação -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=1B3A5C&center=true&vCenter=true&width=600&lines=Eu+sou+Rafael+Soares+de+Paula+Filho+%F0%9F%91%8B;Desenvolvedor+de+Software;Full-Stack+|+Seguran%C3%A7a+Cibern%C3%A9tica;Sempre+aprendendo+algo+novo)
 
