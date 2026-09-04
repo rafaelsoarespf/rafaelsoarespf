@@ -23,7 +23,7 @@ Dev formado em Análise e Desenvolvimento de Sistemas, cursando pós-graduação
 
 <div align="left">
 Front-end<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap theme=dark"/>
 <br/>
 
 Back-end<br/>
@@ -32,7 +32,6 @@ Back-end<br/>
 
 Banco de dados<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-
 <br/>
 
 Linguagens<br/>
