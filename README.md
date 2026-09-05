@@ -22,28 +22,36 @@ Dev formado em Análise e Desenvolvimento de Sistemas, cursando pós-graduação
 ## 💻 Tecnologias e Ferramentas
 
 <div align="left">
+
 Front-end<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap theme=dark"/>
-<br/>
+<img src="assets/icons/html.png" width="48" height="48" alt="HTML"/>
+<img src="assets/icons/css.png" width="48" height="48" alt="CSS"/>
+<img src="assets/icons/javascript.png" width="48" height="48" alt="JavaScript"/>
+<img src="assets/icons/typescript.png" width="48" height="48" alt="TypeScript"/>
+<img src="assets/icons/react.png" width="48" height="48" alt="React"/>
+<img src="assets/icons/angular.png" width="48" height="48" alt="Angular"/>
+<img src="assets/icons/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
 
 Back-end<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-<br/>
+<img src="assets/icons/nodejs.png" width="48" height="48" alt="Node.js"/>
+<img src="assets/icons/express.png" width="48" height="48" alt="Express"/>
 
 Banco de dados<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-<br/>
+<img src="assets/icons/postgresql.png" width="48" height="48" alt="PostgreSQL"/>
+<img src="assets/icons/mysql.png" width="48" height="48" alt="MySQL"/>
 
 Linguagens<br/>
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" />
-<br/>
+<img src="assets/icons/python.png" width="48" height="48" alt="Python"/>
+<img src="assets/icons/java.png" width="48" height="48" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/>
 
 CMS<br/>
-<img src="https://skillicons.dev/icons?i=wordpress&theme=dark" />
-<br/>
+<img src="assets/icons/wordpress.png" width="48" height="48" alt="WordPress"/>
 
 Ferramentas<br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+<img src="assets/icons/git.png" width="48" height="48" alt="Git"/>
+<img src="assets/icons/github.png" width="48" height="48" alt="GitHub"/>
+
 </div>
 
 <img src="assets/divider.svg" width="100%"/>
@@ -66,6 +74,5 @@ Ferramentas<br/>
 [![Email](https://img.shields.io/badge/Email-181b22?style=for-the-badge&logo=gmail&logoColor=5d6f7e)](mailto:rafaelsoares.p.f.work@gmail.com)
 
 </div>
-<br>
 <br>
 <img src="assets/footer.svg" alt="Footer" width="100%"/>
