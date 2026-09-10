@@ -6,6 +6,14 @@
 <!-- Efeito de digitação -->
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=B7BECA&center=true&vCenter=true&width=600&lines=Full-Stack+%7C+Seguran%C3%A7a+Cibern%C3%A9tica;Sempre+aprendendo+algo+novo;Constru%C3%ADdo+com+projetos+pr%C3%B3prios)
 
+<!-- Contato -->
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181b22?style=for-the-badge&logo=linkedin&logoColor=5d6f7e)](https://www.linkedin.com/in/rafael-soares-de-paula-filho/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-181b22?style=for-the-badge&logo=googlechrome&logoColor=5d6f7e)](https://rafaelsoarespf.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181b22?style=for-the-badge&logo=github&logoColor=5d6f7e)](https://github.com/rafaelsoarespf)
+[![Email](https://img.shields.io/badge/Email-181b22?style=for-the-badge&logo=gmail&logoColor=5d6f7e)](mailto:rafaelsoares.p.f.work@gmail.com)
+</div>
+
 <!--Aberto a oportunidades-->
 ![Status](https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-5d6f7e?style=for-the-badge&labelColor=16181f)
 
@@ -64,15 +72,4 @@ Ferramentas<br/>
 
 <img src="assets/divider.svg" width="100%"/>
 
-## 📫 Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-181b22?style=for-the-badge&logo=linkedin&logoColor=5d6f7e)](https://www.linkedin.com/in/rafael-soares-de-paula-filho/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-181b22?style=for-the-badge&logo=googlechrome&logoColor=5d6f7e)](https://rafaelsoarespf.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-181b22?style=for-the-badge&logo=github&logoColor=5d6f7e)](https://github.com/rafaelsoarespf)
-[![Email](https://img.shields.io/badge/Email-181b22?style=for-the-badge&logo=gmail&logoColor=5d6f7e)](mailto:rafaelsoares.p.f.work@gmail.com)
-
-</div>
-<br>
 <img src="assets/footer.svg" alt="Footer" width="100%"/>
