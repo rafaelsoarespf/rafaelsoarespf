@@ -8,10 +8,12 @@
 
 <!-- Contato -->
 <div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181b22?style=for-the-badge&logo=linkedin&logoColor=5d6f7e)](https://www.linkedin.com/in/rafael-soares-de-paula-filho/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-181b22?style=for-the-badge&logo=googlechrome&logoColor=5d6f7e)](https://rafaelsoarespf.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181b22?style=for-the-badge&logo=github&logoColor=5d6f7e)](https://github.com/rafaelsoarespf)
 [![Email](https://img.shields.io/badge/Email-181b22?style=for-the-badge&logo=gmail&logoColor=5d6f7e)](mailto:rafaelsoares.p.f.work@gmail.com)
+
 </div>
 
 <!--Aberto a oportunidades-->
