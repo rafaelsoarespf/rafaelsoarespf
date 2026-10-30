@@ -25,8 +25,6 @@
 
 ## 🚀 Sobre mim
 
-## 🚀 Sobre mim
-
 Desenvolvedor de Software e Segurança Cibernética, formado em Análise e Desenvolvimento de Sistemas (UFPR), cursando pós-graduação em Segurança Cibernética (UTFPR) e MBA em Data Science, IA e Analytics (USP). Gosto de construir aplicações bem estruturadas e estou sempre aprendendo tecnologias novas através de projetos próprios, aplicando boas práticas de programação em diferentes contextos. Em paralelo, dedico-me à cibersegurança, buscando sempre as melhores formas de identificar vulnerabilidades e proteger sistemas.
 
 <img src="assets/divider.svg" width="100%"/>
